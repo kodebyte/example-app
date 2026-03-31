@@ -1,0 +1,2 @@
+[phases.postInstall]
+cmds = ["rm -f /etc/nginx/conf.d/default.conf"]
